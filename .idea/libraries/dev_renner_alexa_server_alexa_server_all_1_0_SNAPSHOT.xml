@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dev.renner.alexa_server.alexa-server-all-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../alexa-server/build/libs/dev.renner.alexa_server.alexa-server-all-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
